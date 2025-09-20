@@ -1,2 +1,2 @@
 # React-Foundations
-Learning foundations of React for Web Development college course!
+Learning foundations of React for Web Development course!
